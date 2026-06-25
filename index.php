@@ -102,7 +102,7 @@
 
         <form action="result.php" method="post">
             <label>จำนวนลิตร (L)</label>
-            <input type="text" name="p_name" placeholder="กรอกจำนวนลิตร">
+            <input type="text" name="l_name" placeholder="กรอกจำนวนลิตร">
 
             <input type="submit" value="คำนวณ">
         </form>

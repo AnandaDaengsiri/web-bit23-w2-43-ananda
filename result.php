@@ -72,7 +72,7 @@
 <div class="container">
 
     <?php
-        $liter = $_POST["p_name"];
+        $liter = $_POST["l_name"];
 
         $cubic_meter = $liter / 1000;
     ?>
